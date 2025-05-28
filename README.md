@@ -26,7 +26,7 @@ A Geometry Nodes data exporter toolset for instancing objects using <img src="im
 - Load the saved .JSON file in the `Json File` field. 
 - By pressing <img src="imgs/Add.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #e0e0e0ff;"> create geometry</span>, the tool will recursively search for the saved mesh objects in the project files and set them as the <img src="imgs/ArrayMesh.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #ffca5fff;"> ArrayMesh</span> for <img src="imgs/MultiMeshInstance3D.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #fc7f7fff;"> MultiMeshInstance3D</span> instances.
 - Adjust the visible instance count, or leave it with a default value of -1 to draw all instances.
-- Remove the geometry nodes.
+- You can also remove instanced geometry by selecting `remove geometry`.
 
 ### Stretch goals
 - [ ] Selectively add or remove instance obejcts.
