@@ -3,7 +3,7 @@ This is a collection of custom tools I use for my projects in Blender and Godot.
 
 ### Contributing
 
-Feel free to submit a Pull Request! I'll do my best to give it attention. I will review requests thoroughly given I use these tools constantly, so that they don't disrupt my own workflow.
+Feel free to submit a Pull Request! I'll do my best to give it attention. I will review requests thoroughly given I use these tools on a daily basis, so that they don't disrupt my own workflow.
 
 ## <img src="GeometryNodeExporter/GeometryTool/ico_geometry_tool.svg" alt="icon" width="33" style="vertical-align: bottom;"/><span style="color: #00d6a3ff;"></span> Geometry Tool
 
@@ -11,7 +11,7 @@ A Geometry Nodes data exporter toolset for instancing objects using <img src="im
 
 ### Features
 - Export Blender geometry node transform data to .JSON.
-- Custom <img src="GeometryNodeExporter/GeometryTool/ico_geometry_tool.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #00d6a3ff;"> GeometryTool</span> node to instance geometry node data in meshinstances.
+- Custom <img src="GeometryNodeExporter/GeometryTool/ico_geometry_tool.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #00d6a3ff;"> GeometryTool</span> node to instance geometry node data via <img src="imgs/MultiMeshInstance3D.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #fc7f7fff;">MultiMeshInstance3D</span> instances.
 - Basic control over visible instance count.
 
 ### Installation
@@ -34,6 +34,7 @@ A Geometry Nodes data exporter toolset for instancing objects using <img src="im
 - [ ] Automatic or custom collision shape instancing per multimeshinstance.
 - [ ] Custom material override per multimesh instance mesh.
 - [ ] Exclude geometry objects by name.
+- [ ] Custom mesh/node instantiation.
 
 ## <img src="imgs/Progress2.svg" alt="icon" width="33" style="vertical-align: bottom;"/><span style="color: #e0e0e0ff;"></span> Blender Curve wrangler
 
