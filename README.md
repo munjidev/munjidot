@@ -7,6 +7,8 @@ Feel free to submit a Pull Request! I'll do my best to give it attention. I will
 
 ## <img src="GeometryNodeExporter/GeometryTool/ico_geometry_tool.svg" alt="icon" width="33" style="vertical-align: bottom;"/><span style="color: #00d6a3ff;"></span> Geometry Tool
 
+A Geometry Nodes data exporter toolset for instancing objects using <img src="imgs/MultiMeshInstance3D.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #fc7f7fff;"> MultiMeshInstance3D</span> instances.
+
 ### Features
 - Export Blender geometry node transform data to .JSON.
 - Custom <img src="GeometryNodeExporter/GeometryTool/ico_geometry_tool.svg" alt="icon" width="15" style="vertical-align: text-bottom;"/><span style="color: #00d6a3ff;"> GeometryTool</span> node to instance geometry node data in meshinstances.
