@@ -17,6 +17,7 @@ A Geometry Nodes data exporter toolset for instancing objects using <img src="im
 ### Installation
 - Download the python script `export_geonodes_to_json.py` and drag it onto your Blender scene, or open it via the Text Editor menu and press the run button. The export option `File > Export > Export GeoNodes to .JSON` should appear.
 - In Godot, copy the `/GeometryTool` folder to `res://addons` and reload the project.
+- Add it as a plugin via `Project > Project Settings > Plugins`
   
 ### Usage
 - Select your geometry node object and export it by selecting `Export GeoNodes to .JSON`. A pop-up will ask for the file name and save location.
